@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 macaroni
 ice cream
 steak
 candy
+=======
+avengers
+tangled
+>>>>>>> movies
